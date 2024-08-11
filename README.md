@@ -41,7 +41,7 @@ Welcome to my GitHub profile! I'm a passionate software developer and cloud enth
 
 ### 🚀 My Journey
 
-I graduated with a **B.Sc. (Hons.) in Information Technology** from Somaiya Vidyavihar University, where I developed a solid foundation in software development and cloud computing. During my time at **Prometheus Solutions**, I gained practical experience in .NET development, which further fueled my passion for technology. Now, I'm on a continuous learning journey, aiming to become a proficient Software Development Engineer.
+I graduated with a **B.Sc. (Hons.) in Information Technology** from Somaiya Vidyavihar University, where I developed a solid foundation in software development and cloud computing. During my internship, I gained practical experience in .NET development, which further fueled my passion for technology. Now, I'm on a continuous learning journey, focusing on gaining hands-on experience in Full Stack Java Development, with the aim of becoming a proficient Software Development Engineer.
 
 Feel free to explore my repositories and connect with me. I'm always open to discussions, collaborations, and new opportunities!
 
