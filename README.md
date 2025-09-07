@@ -45,6 +45,6 @@ I’m a software developer & Linux enthusiast who loves building with **Java, Ko
 
 ### 🐍 GitHub Contributions
 
-![Snake](https://raw.githubusercontent.com/jxmot/gh-profile-snake/main/github-snake.svg)  
+![snake gif](https://github.com/bhavesh-7/bhavesh-7/blob/output/github-snake-dark.svg)
 
 > Watch the snake eat my contributions 🐍 — a playful way to show my activity while coding consistently.
