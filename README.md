@@ -40,3 +40,11 @@ I’m a software developer & Linux enthusiast who loves building with **Java, Ko
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A1?style=for-the-badge&logo=wireshark&logoColor=white)
 ![Metasploit](https://img.shields.io/badge/Metasploit-6B7280?style=for-the-badge&logo=metasploit&logoColor=white)
 ![Burp Suite](https://img.shields.io/badge/Burp_Suite-F17C21?style=for-the-badge&logo=burpsuite&logoColor=white)
+
+---
+
+### 🐍 GitHub Contributions
+
+![Snake](https://raw.githubusercontent.com/jxmot/gh-profile-snake/main/github-snake.svg)  
+
+> Watch the snake eat my contributions 🐍 — a playful way to show my activity while coding consistently.
