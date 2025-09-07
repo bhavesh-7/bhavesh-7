@@ -1,3 +1,6 @@
+<!-- Intro -->
+<div align="center">
+
 # Hi there, I'm Bhavesh Mishra! 👋
 
 I’m a software developer & Linux enthusiast who loves building with **Java, Kotlin, Python, Android**, and exploring **cloud, open-source, and cybersec**.
@@ -6,9 +9,14 @@ I’m a software developer & Linux enthusiast who loves building with **Java, Ko
 🖥️ By night, I tinker with **Fedora**, work on **dotfiles & Neovim**, and experiment with new tech.  
 🌐 Focused on creating impactful software and mastering cloud-native systems.
 
-📫 Connect with me: [Portfolio](https://bhaveshmishra.dev) · [LinkedIn](https://linkedin.com/in/mishraBhavesh)  
+📫 Chekout more: [Portfolio](https://bhaveshmishra.dev)  
+
+</div>
 
 ---
+
+<!-- Tech Stack -->
+<div align="center">
 
 ### 🛠️ Tech Stack
 
@@ -41,10 +49,25 @@ I’m a software developer & Linux enthusiast who loves building with **Java, Ko
 ![Metasploit](https://img.shields.io/badge/Metasploit-6B7280?style=for-the-badge&logo=metasploit&logoColor=white)
 ![Burp Suite](https://img.shields.io/badge/Burp_Suite-F17C21?style=for-the-badge&logo=burpsuite&logoColor=white)
 
+</div>
+
 ---
 
-### 🐍 GitHub Contributions
+<!-- Social Links -->
+<div align="center">
+
+## 🌐 Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mishraBhavesh) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=instagram&logoColor=white)](https://instagram.com/bhxhvs) 
+[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/bhaveshx7) 
+[![Threads](https://img.shields.io/badge/Threads-000000?logo=threads&logoColor=white)](https://threads.net/@bhxhvs)
+[![Bluesky](https://img.shields.io/badge/Bluesky-00CFFF?logo=bluesky&logoColor=white)](https://bsky.app/profile/bhaveshmishra.dev)
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/pH8KNB9f) 
+[![Matrix](https://img.shields.io/badge/Matrix-000000?logo=matrix&logoColor=white)](https://matrix.to/#/@tremox:matrix.org)
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:work@bhaveshmishra.dev)
+
+</div>
 
 ![snake gif](https://github.com/bhavesh-7/bhavesh-7/blob/output/github-snake-dark.svg)
 
-> Watch the snake eat my contributions 🐍 — a playful way to show my activity while coding consistently.
