@@ -5,9 +5,6 @@
 
 I’m a software developer & Linux enthusiast who loves building with **Java, Kotlin, Python, Android**, and exploring **cloud, open-source, and cybersec**.
 
-💻 By day: Linux Sysadmin at **TCS (RHEL, Oracle, Ubuntu)**  
-🖥️ By night: Tinkering on **Fedora**, dotfiles & Neovim, experimenting with new tech  
-
 📫 Check out more: [Portfolio](https://bhaveshmishra.dev)  
 
 </div>
@@ -89,3 +86,4 @@ I’m a software developer & Linux enthusiast who loves building with **Java, Ko
 ![Profile Views](https://komarev.com/ghpvc/?username=bhavesh-7&color=0e75b6&style=flat-square)
 
 </div>
+
